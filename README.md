@@ -49,3 +49,11 @@
 2. **Haresah**
 ![har](./picture/haresah.jpg)
 **_Price: 2.00 JD_**
+
+
+**wireframe sample**
+![](./image/w5.PNG)
+![](./image/w1.PNG)
+![](./image/w2.PNG)
+![](./image/w3.PNG)
+![](./image/w4.PNG)
